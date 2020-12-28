@@ -1,0 +1,2 @@
+# Quiz-Game
+This is a game where you can choose multiplayer(up to 4 players) or single. Players will be prompted with questions and options for answers. Players start off with 50 points and if they answer the question right the point increments by 10pt or if they answer the question wrong it decrement by 5pt. At the end, it will display with player's name and score in descending order after the score is sorted by program.
